@@ -1,3 +1,4 @@
+# To use Tkinter https://docs.python.org/2/library/tkinter.html
 from Tkinter import *
 
 class Application(Frame):
