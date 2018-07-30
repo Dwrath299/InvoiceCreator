@@ -1,0 +1,7 @@
+import math
+
+def_convert_time_to_dollars(hours, minutes):
+  dollars = hours * hourlyWage
+  dollars += (minutes / 60) * hourlyWage
+  return dollars
+  
